@@ -16,7 +16,7 @@ namespace Methods
         }
 
         // class ın önemi
-        // do not use Ekle2, KULLANISSIZ AGA. Ekle DEVAM !!
+        // do not use Ekle2, KULLANISSIZ
         public void Ekle2(string urunAdi, string Aciklama, double Fiyati, int stokAdedi)
         {
             Console.WriteLine("Tebrikler! Sepete eklendi : " + urunAdi);
